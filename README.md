@@ -1,2 +1,2 @@
 # JavaScript-code
-This is full of java Script code 
+ # This is full of java Script code 
